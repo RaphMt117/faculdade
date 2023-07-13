@@ -24,3 +24,4 @@ public class ex001 {
     sc.close();
   }
 }
+
