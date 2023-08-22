@@ -1,6 +1,6 @@
 # Lista 1
 
-## 1.Na sua opinião, porque precisamos estudar sobre Segurança Digital? 
+## 1.Na sua opinião, porque precisamos estudar sobre Segurança Digital?
 
 É importante para que possamos entender como funciona a manipulação dos nossos dados na rede e como eles são tratados, para assim desenvolver melhores sistemas e nos proteger melhor de possíveis vulnerabilidades.
 
@@ -14,7 +14,7 @@ Não deixar o CPF disponível em locais não confiáveis, ou em sistemas que apa
 
 ## 4.Você já foi ou conhece alguém que perdeu dados através da Internet?
 
-Sim, já fui vítima de um ataque no qual uma senha (comum a algumas contas) foi adquirida por terceiros. 
+Sim, já fui vítima de um ataque no qual uma senha (comum a algumas contas) foi adquirida por terceiros.
 
 ## 5.Quais os tipos de cuidados básicos uma pessoa deve ter ao possuir várias contas de e-mail, redes sociais e cadastros na Internet?
 
