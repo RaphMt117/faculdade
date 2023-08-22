@@ -19,4 +19,3 @@ Sim, já fui vítima de um ataque no qual uma senha (comum a algumas contas) foi
 ## 5. Quais os tipos de cuidados básicos uma pessoa deve ter ao possuir várias contas de e-mail, redes sociais e cadastros na Internet?
 
 Não usar senhas comuns a diferentes contas, tentando variar e criar senhas fortes e diversificadas em suas redes sociais e cadastros, não manter anotações de senhas em arquivos locais, muito menos em arquivos disponíveis na internet.
-
